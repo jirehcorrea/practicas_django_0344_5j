@@ -8,7 +8,7 @@ aqui se realiza las practicas en Django que es un reportmarco de trabajo en espa
 - 6 crear entorno virtual --> py -3 -m venv .venv
 - 7 activar entorno vistual --> .venv\scripts\activate.bat
 - 8 selecionar interprete de python presione f1
-- 9 actualizar pip python --> -m pip install --upgrade pip
+- 9 actualizar pip  --> python -m pip install --upgrade pip
 - 10 instalar framwork django --> python -m pip install django
 - 11 crear el proyecto en python Django --> django-admin startproject CBTIS1285J0344 .
 - 12 ejecutar el servidor --> python  manage.py runserver
